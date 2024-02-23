@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "Tucker")(type KiCad)(uri "$(KIPRJMOD)/Tucker.pretty")(options "")(descr ""))
+)
