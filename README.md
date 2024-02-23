@@ -1,5 +1,5 @@
 # KiCad-Zombie_Garden
-My ugly Zombies
+My ugly backlight Zombies
 
 
 <img src="Zombie_Garden/Zombie_Garden.png"  wide="600"> 
